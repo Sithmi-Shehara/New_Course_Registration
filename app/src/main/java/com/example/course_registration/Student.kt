@@ -1,13 +1,9 @@
-package com.example.course_registration;
+package com.example.course_registration
 
-public class Student {
-    String id;
-    String name;
-    String course;
-    String fee;
-    String titles;
-
-
-
-
+class Student {
+    var id: String? = null
+    var name: String? = null
+    var course: String? = null
+    var fee: String? = null
+    var titles: String? = null
 }

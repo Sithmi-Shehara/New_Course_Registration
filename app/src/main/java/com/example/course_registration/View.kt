@@ -53,5 +53,6 @@ class View : AppCompatActivity() {
             list1.invalidateViews()
         }
 
+
     }
 }
